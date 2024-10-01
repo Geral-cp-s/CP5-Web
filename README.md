@@ -27,7 +27,7 @@
       <li><strong>Nav.jsx</strong> Barra de navegação com links para as principais páginas (Home, Produtos, Sobre e Login).</li>
       <li><strong>Footer.jsx</strong> Rodapé com ícones de redes sociais (Facebook, Instagram, LinkedIn) e e-mail.</li>
     </ul>
-    <li id="R'><strong>routes/</strong> Contém os componentes das páginas da aplicação.</li>
+    <li id="R"><strong>routes/</strong> Contém os componentes das páginas da aplicação.</li>
     <ul>
       <li><strong>Error.jsx</strong> Página de erro (exibida quando uma rota não é encontrada).</li>
       <li><strong>Home.jsx</strong> Página inicial com título, slideshow de imagens, texto sobre o tema e cards de produtos com imagem, descrição e preço.</li>
