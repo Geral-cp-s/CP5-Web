@@ -43,7 +43,7 @@ const Footer = () => {
         <FooterContainer>
             <FooterText>@2024 - Todos os direitos reservados</FooterText>
             <SocialIconsContainer>
-                <IconLink href="#" target="_blank" rel="noopener noreferrer">
+                <IconLink href="https://github.com/Geral-cp-s/CP5-Web" target="_blank" rel="noopener noreferrer">
                     <FaGithub />
                 </IconLink>
             </SocialIconsContainer>
