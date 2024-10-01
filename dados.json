@@ -56,6 +56,12 @@
       "nome": "BYD Dolphin",
       "preco": "R$190.000,00",
       "descricao": "Um SUV compacto com bom espaço, tecnologia e autonomia para o dia a dia."
+    },
+    {
+      "id": "d2b1",
+      "nome": "E-Kwid ",
+      "preco": "120.000",
+      "descricao": "Carro bomba"
     }
   ]
 }
