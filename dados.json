@@ -1,0 +1,76 @@
+{
+  "usuarios": [
+    {
+      "id": "da18",
+      "usuario": "Admin",
+      "senha": "123"
+    },
+    {
+      "id": "f45f",
+      "usuario": "Gabriel",
+      "senha": "12345"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Tesla Model S",
+      "preco": "R$800.000,00 + importação",
+      "descricao": "Um sedã elétrico de luxo com grande autonomia e desempenho impressionante."
+    },
+    {
+      "id": "2",
+      "nome": "Nissan Leaf",
+      "preco": "R$290.000,00",
+      "descricao": "Um dos carros elétricos mais vendidos, ideal para uso urbano e com bom espaço interno."
+    },
+    {
+      "id": "3",
+      "nome": "Chevrolet Bolt",
+      "preco": "R$280.000,00",
+      "descricao": "Um hatchback compacto que oferece uma excelente relação custo-benefício e autonomia."
+    },
+    {
+      "id": "4",
+      "nome": "Audi e-tron",
+      "preco": "R$700.000,00",
+      "descricao": "Um SUV elétrico de luxo com performance excepcional e tecnologia avançada."
+    },
+    {
+      "id": "5",
+      "nome": "BMW i3",
+      "preco": "R$130.000,00",
+      "descricao": "Um carro urbano que combina design inovador com eficiência elétrica."
+    },
+    {
+      "id": "6",
+      "nome": "Ford Mustang Mach-E",
+      "preco": "R$480.000,00",
+      "descricao": "Um SUV elétrico que mantém a essência esportiva do Mustang, com tecnologia de ponta."
+    },
+    {
+      "id": "7",
+      "nome": "Porsche Taycan",
+      "preco": "R$540.000,00",
+      "descricao": "Um carro esportivo elétrico que oferece uma experiência de condução emocionante e rápida."
+    },
+    {
+      "id": "8",
+      "nome": "Hyundai Kona Electric",
+      "preco": "R$190.000,00",
+      "descricao": "Um SUV compacto com bom espaço, tecnologia e autonomia para o dia a dia."
+    },
+    {
+      "id": "9",
+      "nome": "BYD Dolphin",
+      "preco": "R$190.000,00",
+      "descricao": "Um SUV compacto com bom espaço, tecnologia e autonomia para o dia a dia."
+    },
+    {
+      "id": "d2b1",
+      "nome": "E-Kwid ",
+      "preco": "120.000",
+      "descricao": "Carro bomba"
+    }
+  ]
+}
